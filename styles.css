@@ -1,0 +1,117 @@
+#title{
+    background-color: #ff4c68;
+    position: relative;
+
+}
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.logo{
+    font-weight:300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+}
+/* .navi{
+    font-size: x-large;
+    
+} */
+
+#features{
+    background-color:whitesmoke;
+   
+}
+.title-img{
+    width: 60%;
+    margin-top: 50px;
+    transform: rotate(25deg);
+}
+.tick{
+    color: #ef8172;
+    padding:0 0 0 20px;
+}
+.fa-flag:hover{
+    color: #ff4c68;
+}
+.feature-position{
+    margin: 150px 0 150px 0;
+    text-align: center;
+    font-size: large;
+}
+.feature-position >h3{
+    padding: 10px 0 10px 15px;
+}
+.feature-position >p{
+    color:#8f8f8f
+}
+
+/* Testimonial */
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color:#fff;
+  
+}
+.carousel-inner{
+    padding: 7% 15%;
+}
+.test-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+h2{
+    font-size:3.5rem;
+    line-height:1.5;
+    font-weight: bold;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+    
+    
+}
+.press-img{
+    width: 15%;
+    margin:20px 20px 50px 20px;
+}
+#pricing{
+    padding: 10% 15%;
+    
+}
+.pricing-space{
+    padding: 3%;
+}
+.card-body{
+    text-align: center;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding:10% 20%;
+}
+.cta-text{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size:400%;
+    padding-bottom:3% ;
+}
+#footer{
+    text-align: center;
+    padding: 1% 15%;
+}
+.footer-icon{
+    padding: 7% 2% 3% 2%;
+}
+.copyright{
+    color: #8f8f8f;
+}
